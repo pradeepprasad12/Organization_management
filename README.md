@@ -1,0 +1,1 @@
+Organization management Django project which control all access permission (super admin, admin, manager, member)
